@@ -1,0 +1,26 @@
+.main {
+    max-width: 500px;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    border-width: 0.5px;
+    border-color: #c4c6db;
+    border-style: solid;
+    border-radius: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background: url(../assets/background.jpg) no-repeat center 0;
+}
+
+.loginButton {
+ width: 100%;
+}
+
+.title {
+  height: 50px;
+}
+
+.titleFont {
+  color: red;
+  font-size: 25px;
+}

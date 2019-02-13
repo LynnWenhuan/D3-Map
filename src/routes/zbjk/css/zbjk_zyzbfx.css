@@ -1,0 +1,48 @@
+.ms-zyzbfx-table-wrapper .ant-pagination{
+  display: none !important;
+}
+
+.zyzbfx-condition .ant-select-selection--single,.zyzbfx-condition input{
+  height:1.6rem;
+  font-size:12px;
+}
+.zyzbfx-condition .ant-select-selection__rendered{
+  line-height: 1.6rem;
+}
+.ant-select-dropdown-menu-item{
+  padding: 0.2rem;
+  font-size:12px;
+}
+.condition-lable{
+  font-size:11px;
+  display: inline-block;
+  text-align: right;
+  padding-right: 5px;
+  width:90px;
+}
+.zyzbfx-condition{
+  overflow: hidden;
+  min-width:1100px;
+  max-width:1400px;
+  height: 140px;
+  
+}
+.condition-item{
+  float: left;
+  min-width:270px;
+  margin-bottom: 9px;
+}
+
+.zyzbfx-condition .ant-btn-sm{
+  height:1.6rem ;
+  margin-left: 77px;
+  line-height:1.5rem ;
+  font-size: 12px;
+}
+
+ .ant-select-tree{
+  font-size:13px;
+}
+.ant-select-tree li {
+  margin: 0.117rem .1rem;
+}

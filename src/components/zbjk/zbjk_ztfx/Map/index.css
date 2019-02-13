@@ -1,0 +1,22 @@
+.ms-map-bkbtn{
+  position: absolute;
+  top:0px;
+  left:0px
+}
+
+.ms-map-bkbtn button{
+  font-size: 12px;
+}
+
+.ms-map-pop-menu{
+  display: none;
+  padding:10px;
+  max-width: 200px;
+  font-size: 13px;
+  max-height: 100px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+  word-break: break-all;
+  position: fixed;
+}

@@ -1,0 +1,26 @@
+.ms-left-map{
+  width:50%;
+  float: left;
+}
+.ms-right-map{
+  width:48%;
+  float: left;
+}
+
+.ms-right-map table,.ms-zyzbfx-table-wrapper table{
+  font-size: 12px !important;
+}
+
+.ms-right-map .ant-table-thead > tr > th,.ms-right-map .ant-table-tbody > tr > td,
+.ms-zyzbfx-table-wrapper .ant-table-thead > tr > th,.ms-right-map .ant-table-tbody > tr > td{
+  padding: .5rem 0.2rem !important;
+}
+
+.ms-right-map .ant-pagination{
+  display: none !important;
+}
+
+.ms-map-content{
+  position: relative;
+  overflow: hidden;
+}

@@ -1,0 +1,34 @@
+.main {
+    width: 500px;
+    position: absolute;
+    left: 28%;
+    top: 20%;
+    border-width: 0.5px;
+    border-color: #c4c6db;
+    border-style: solid;
+    border-radius: 20px;
+    padding-right: 22px;
+    padding-left: 22px;
+    /*background: url(../assets/background.jpg) no-repeat center 0;*/
+}
+
+.loginButton {
+ width: 150px;
+}
+
+.title {
+  padding-top: 10px;
+  height: 61px;
+}
+
+.inputFont {
+  height: 42px;
+}
+
+.tip {
+  font-size: 6px;
+}
+
+.antFormItem {
+  margin-bottom: 10px;
+}

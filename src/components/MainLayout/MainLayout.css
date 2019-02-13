@@ -1,0 +1,105 @@
+.ms-root{
+  width:100%;
+  height: 100%;
+  position:relative;
+}
+.ms-top{
+  position:relative;
+  height:70px;
+  border-bottom:1px solid #b7b7b7;
+  color: #f6665b;
+  background-color: #ffffff;
+  font-size: 32px;
+  padding-left: 30px;
+  font-family: cursive;
+  font-weight: 900;
+  background: url(../../assets/background.jpg);
+}
+.ms-top-left {
+  position:absolute;
+  background-size:60px 55px;
+  top: 10px;
+  left: 3%;
+  height: 60px;
+}
+.ms-top-left-span {
+  top: 15px;
+  position:absolute;
+  left: 8%;
+}
+.ms-content{
+  position:absolute;
+  width:100%;
+  top:70px;
+  overflow: hidden;
+  bottom:0;
+  left:0;
+}
+
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+  padding: 0.33333rem 0.26667rem !important;
+  word-break: break-all;
+  font-size: 13px;
+  color:#000000 !important;
+}
+
+.numeric-input .ant-tooltip-inner {
+  min-width: 32px;
+  min-height: 37px;
+}
+
+.numeric-input .numeric-input-title {
+  font-size: 14px;
+}
+
+
+.ms-left{
+  position:relative;
+  float: left;
+  border-right:1px solid #eee;
+  height: 100%;
+  overflow: auto;
+  padding-bottom: 100px;
+}
+.ant-menu-inline-collapsed .anticon{
+  margin-left: -0.8rem !important;
+}
+.ant-menu-inline-collapsed{
+  width:4.06rem !important;
+}
+
+.ant-layout-sider-trigger{
+  opacity: .8;
+  height: 3rem !important;
+  line-height: 3rem !important;
+}
+
+.ms-right{
+  position: relative;
+  height: 100%;
+  overflow: auto;
+}
+
+.ms-right-inner{
+  position: relative;
+  min-width: 800px;
+  height:100%;
+  width:100%;
+}
+
+
+.ant-menu-vertical .ant-menu-item, .ant-menu-inline .ant-menu-item, .ant-menu-vertical .ant-menu-submenu-title, .ant-menu-inline .ant-menu-submenu-title{
+  font-size: .8rem !important;
+}
+.ant-menu-sub.ant-menu-inline > .ant-menu-item, .ant-menu-sub.ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title{
+  height:2.8rem !important;
+  line-height:2.8rem !important;
+}
+
+.ant-menu-inline .ant-menu-submenu-title{
+  padding-left:5px !important;
+}
+
+.ant-menu-sub.ant-menu-inline > .ant-menu-item{
+  padding-left: 34px !important;
+}
